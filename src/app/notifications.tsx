@@ -8,7 +8,7 @@ const NotificationsPanel = () => {
       {/* Notifications */}
       <div className="flex items-center justify-between px-5">
         <span className="text-xl">Notifications</span>
-        <button className="text-[#4C86FF]">see all</button>
+        <button className="text-[#4C86FF]">SEE ALL</button>
       </div>
       <div className="bg-card-3 py-4 px-6 rounded-4xl mt-6 max-h-[412px] overflow-y-auto no-scrollbar">
         <div className="text-sm text-white/50 mb-2.5">Today</div>
