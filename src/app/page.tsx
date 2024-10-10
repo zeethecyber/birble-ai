@@ -14,7 +14,7 @@ export default function Page() {
           <CategoriesSection />
           <div>
             <div className="px-8 py-2 text-xl font-medium">
-              Recent Creations
+              <span>Recent Notifications</span>
             </div>
             <div className="bg-card-3 rounded-4xl px-5"></div>
           </div>
